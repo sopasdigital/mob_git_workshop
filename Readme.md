@@ -33,8 +33,3 @@ If you're still a student, you can get a whole pack of goodies! Check here: http
 * Make several (at least 4) changes in the `index.html` file and create separate commits with each change
 * Remove a commit from the last set of changes (other than the last one)
 * Make an extra change to the latest commit
-
-
-### Wrapping up
-* ~~Add your name to the `Contributors` file~~
-* Create a Pull Request!
